@@ -27,7 +27,7 @@ def show_main_page():
         """
     )
 
-    st.image(image, use_column_width=True)
+    st.image(image)
 
 
 def write_user_data(df):
