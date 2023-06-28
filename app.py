@@ -15,7 +15,7 @@ def show_main_page():
     st.set_page_config(
         layout="wide",
         initial_sidebar_state="auto",
-        page_title="DKay Titanic project",
+        page_title="Demo Titanic",
         page_icon=image,
 
     )
